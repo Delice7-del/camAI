@@ -1,0 +1,6 @@
+﻿components/LiveFeedDetail.tsx(103,11): error TS2657: JSX expressions must have one parent element.
+components/LiveFeedDetail.tsx(112,9): error TS1128: Declaration or statement expected.
+components/LiveFeedDetail.tsx(125,7): error TS1128: Declaration or statement expected.
+components/LiveFeedDetail.tsx(126,5): error TS1109: Expression expected.
+components/LiveFeedDetail.tsx(127,3): error TS1109: Expression expected.
+components/LiveFeedDetail.tsx(128,1): error TS1128: Declaration or statement expected.
